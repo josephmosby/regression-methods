@@ -29,7 +29,7 @@ Nevada                   39.0     191    0    117.0
 NewHampshire             43.8     129    1     71.5
 NewJersey                40.2     159    1     74.5
 NewMexico                35.0     141    0    106.0
-MewYork                  43.0     152    1     75.5
+NewYork                  43.0     152    1     75.5
 NorthCarolina            35.5     199    1     79.5
 NorthDakota              47.5     115    0    100.5
 Ohio                     40.2     131    0     82.8
